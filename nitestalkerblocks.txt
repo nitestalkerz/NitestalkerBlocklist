@@ -36,6 +36,7 @@
 /^device-metric(s(-us)).*.*/
 /^doubleclick.net\./
 /^dp-discovery-na-ext.*.*/
+/^firebaselogging-*\./
 /^footprints-pa.*.*/
 /^geolocation\./
 /^improving\./
@@ -63,6 +64,7 @@
 ||adtilt.com^
 ||affiliate-program.amazon.com^
 ||alb.reddit.com^
+||api.amplitude.com^
 ||api.ipify.org^
 ||api.segment.io^
 ||app-measurement.com^
@@ -92,6 +94,7 @@
 ||continuum.dds.microsoft.com^
 ||countess.twitch.tv^
 ||crwdcntrl.net^
+||cstat.apple.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d.ghostery.com^
 ||data.cnn.com^
@@ -112,6 +115,7 @@
 ||indexww.com^
 ||intellimize.co^
 ||internal-api.snapkit.com^
+||js-agent.newrelic.com^
 ||kampyle.com^
 ||kochava.com^
 ||krxd.net^
@@ -139,6 +143,7 @@
 ||speedcurve.com^
 ||static.scroll.com^
 ||summerhamster.com^
+||sw88.go.com^
 ||tags.bluekai.com^
 ||thumbor.forbes.com^
 ||tinypass.com^
