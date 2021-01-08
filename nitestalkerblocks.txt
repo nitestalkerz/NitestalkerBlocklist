@@ -17,6 +17,7 @@
 /^*.iad-*.*/
 /^*.imrworldwide.com/
 /^*.moatad(s).*/
+/^*.newrelic.com/
 /^*.quora.com/
 /^*.scorecardresearch.com/
 /^*.trafficjunky.*/
@@ -29,7 +30,7 @@
 /^analytic(s)\./
 /^banner(s)\./
 /^beacon(s)\./
-/^collector(s)\./
+/^collector|s\./
 /^count(ers?)\./
 /^customerevent(s)\./
 /^device-messaging-na.*.*/
@@ -69,6 +70,7 @@
 ||api.segment.io^
 ||app-measurement.com^
 ||app.link^
+||appsflyer.com^
 ||arc.msn.com^
 ||assets-jpcust.jwpsrv.com^
 ||assets.adobedtm.com^
@@ -91,10 +93,12 @@
 ||cmp-cdn.ghostery.com^
 ||cmp.macworld.com^
 ||consent.truste.com^
+||context.bestbuy.com^
 ||continuum.dds.microsoft.com^
 ||countess.twitch.tv^
 ||crwdcntrl.net^
 ||cstat.apple.com^
+||cws.conviva.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d.ghostery.com^
 ||data.cnn.com^
@@ -108,10 +112,14 @@
 ||fp.msedge.net^
 ||g.doubleclick.net^
 ||geo.ngtv.io^
+||go-mpulse.net^
 ||googleoptimize.com^
 ||gtq6.sct.sc-prod.net^
+||h-walmart.online-metrix.net^
 ||hubtraffic.com^
 ||i-ch1-cor001.api.p001.1drv.com
+||iadsdk.apple.com^
+||inapps.appsflyer.com^
 ||indexww.com^
 ||intellimize.co^
 ||internal-api.snapkit.com^
@@ -128,6 +136,7 @@
 ||p.typekit.net^
 ||pgmcdn.com^
 ||quantcast.mgr.consensu.org^
+||quantummetric.com^
 ||quora.com^
 ||rebel.ai^
 ||rkdms.com^
@@ -135,12 +144,14 @@
 ||s-onetag.com^
 ||s.w-x.co^
 ||secure.quantserve.com^
+||segment.com^
 ||services.vlitag.com^
 ||settingsfd-geo.trafficmanager.net^
 ||snapads.com^
 ||sodc.weather.com^
 ||spade.twitch.tv^
 ||speedcurve.com^
+||static.ecorebates.com^
 ||static.scroll.com^
 ||summerhamster.com^
 ||sw88.go.com^
