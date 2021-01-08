@@ -16,6 +16,7 @@
 /^*.googletagservices.*/
 /^*.iad-*.*/
 /^*.imrworldwide.com/
+/^insights-collector\./
 /^*.moatad(s).*/
 /^*.newrelic.com/
 /^*.quora.com/
@@ -30,7 +31,7 @@
 /^analytic(s)\./
 /^banner(s)\./
 /^beacon(s)\./
-/^collector|s\./
+/^collector\./
 /^count(ers?)\./
 /^customerevent(s)\./
 /^device-messaging-na.*.*/
@@ -41,7 +42,7 @@
 /^footprints-pa.*.*/
 /^geolocation\./
 /^improving\./
-/^insights-collector(s)\./
+/^insights-collector\./
 /^mad(s)\./
 /^mas-ext.*.*/
 /^mas-sdk.*.*/
