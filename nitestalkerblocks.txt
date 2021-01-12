@@ -1,4 +1,3 @@
-
 /^(app-)analytic(s(-v2))\./
 /^*-*-iad\./
 /^*.*.omtrdc.net/
@@ -19,6 +18,7 @@
 /^*.imrworldwide.com/
 /^*.moatad(s).*/
 /^*.newrelic.com/
+/^*.online-metrix.*/
 /^*.quora.com/
 /^*.scorecardresearch.com/
 /^*.trafficjunky.*/
@@ -113,6 +113,7 @@
 ||continuum.dds.microsoft.com^
 ||countess.twitch.tv^
 ||crashlyticsreports-pa.googleapis.com^
+||criteo.net^
 ||crwdcntrl.net^
 ||cstat.apple.com^
 ||cws.conviva.com^
@@ -124,12 +125,14 @@
 ||ensighten.com^
 ||etahub.com^
 ||everesttech.net^
+||exoclick.com^
 ||firebaselogging-pa.googleapis.com^
 ||fls-*.amazon.com^
 ||fn-pz.com^
 ||fp.msedge.net^
 ||g.doubleclick.net^
 ||geo.ngtv.io^
+||geojs.io
 ||go-mpulse.net^
 ||googleoptimize.com^
 ||greatdexchange.com^
@@ -163,10 +166,12 @@
 ||ovp.iris.tv^
 ||p.typekit.net^
 ||pgmcdn.com^
+||pxf.io^
 ||quantcast.mgr.consensu.org^
 ||quantummetric.com^
 ||quora.com^
 ||rebel.ai^
+||recruitics.com^
 ||rkdms.com^
 ||rolo.nocdnrlly.xyz^
 ||s7.addthis.com^
@@ -191,13 +196,16 @@
 ||superfastcdn.com^
 ||sw88.espn.com^
 ||sw88.go.com^
+||t.paypal.com^
 ||taboola.com^
 ||tags.bluekai.com^
 ||thumbor.forbes.com^
 ||tinypass.com^
 ||top-performance.best^
 ||topic-sticker-vending.snapchat.com^
+||tpc.googlesyndication.com^
 ||tr.snapchat.com^
+||triggers.wfxtriggers.com^
 ||ugdturner.com^
 ||unid.go.com^
 ||usabilla.com^
