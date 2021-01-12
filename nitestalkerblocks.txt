@@ -82,8 +82,6 @@
 ||app.adjust.com^$important
 ||app.link^
 ||apple.comscoreresearch.com^
-||appsflyer.com^
-||appspot.com^
 ||arc.msn.com^
 ||assets-jpcust.jwpsrv.com^
 ||assets.adobedtm.com^
